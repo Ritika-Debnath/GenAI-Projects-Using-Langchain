@@ -1,6 +1,6 @@
 langchain
 langchain-groq
-dotenv
+python-dotenv
 streamlit
 langchain-nimble
 sqlalchemy
