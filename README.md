@@ -107,6 +107,5 @@ Your browser will open at `http://localhost:8501`. The same steps work for the o
 ## Author
 
 **Your Name**
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: [@Ritika-Debnath](https://github.com/Ritika-Debnath)
 
-If you like this project, please give it a star ⭐
