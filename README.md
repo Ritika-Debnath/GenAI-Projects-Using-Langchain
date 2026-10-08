@@ -106,6 +106,6 @@ Your browser will open at `http://localhost:8501`. The same steps work for the o
 
 ## Author
 
-**Your Name**
+**Ritika Debnath**
 GitHub: [@Ritika-Debnath](https://github.com/Ritika-Debnath)
 
